@@ -2,7 +2,7 @@
   "name": "eslint-project-disabler",
   "displayName": "ESLint Project Disabler",
   "description": "Disable ESLint rules at the project level",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "larrygadea",
   "author": {
     "name": "Larry Gadea",
