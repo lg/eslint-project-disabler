@@ -3,6 +3,8 @@
 ESLint Project Disabler is a VSCode extension which, when used with the official ESLint extension, will display the
 ability to disable ESLint rules project-wide versus just line or file. JSON and YAML files are supported.
 
+Install the extension [here](https://marketplace.visualstudio.com/items?itemName=larrygadea.eslint-project-disabler).
+
 ## Features
 
 - ✏️ YAML and JSON files are supported (`.eslintrc.yaml`, `.eslintrc.yml` and `.eslintrc.json`)
